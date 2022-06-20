@@ -1,0 +1,6 @@
+Las clases como Tablet o Computadora pueden ser tambien creadas auqnue con
+codigo repetido y copiado de la clase Celular.
+
+Las clases Lavadora o Refrigerador tambien pueden copiarse de TV, y a la clase
+ElectronicA2 en lugar de darle un atributo de tipo TV, podriamos darle uno
+de tipo IA2.
