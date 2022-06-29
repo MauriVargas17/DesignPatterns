@@ -1,10 +1,10 @@
-package singleton.structure;
+package creationalPatterns.singleton.structure;
 
 public class Client3Correct {
 
     public static void main(String[] args){
 
-        // Example of good use of singleton with Singleton3:
+        // Example of good use of creationalPatterns.singleton with Singleton3:
 
         Thread user1 = new Thread(new Runnable() {
             @Override

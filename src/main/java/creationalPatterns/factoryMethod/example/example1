@@ -1,0 +1,15 @@
+We sell ice creams of different types, but we only have 2 types available
+today. We have recipes for these two ice creams:
+
+Water Ice Cream
+- Attribute 1
+- Attribute 2
+- ...
+
+Cream Ice Cream
+- ...
+- ...
+
+We have to use Factory Method to create instances of these
+ice creams in a Client without having to specify the ingredients
+every time we create an instance.

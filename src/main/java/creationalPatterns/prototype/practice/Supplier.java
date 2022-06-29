@@ -1,4 +1,4 @@
-package prototype.practice;
+package creationalPatterns.prototype.practice;
 
 public class Supplier {
     public static void main(String[] args){

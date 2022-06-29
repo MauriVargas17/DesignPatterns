@@ -1,4 +1,4 @@
-package singleton.practice;
+package creationalPatterns.singleton.practice;
 
 public class ExchangeRatesMN {
     private static final ExchangeRatesMN manager = new ExchangeRatesMN();

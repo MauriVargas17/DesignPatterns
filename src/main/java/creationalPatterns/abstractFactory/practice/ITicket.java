@@ -1,4 +1,4 @@
-package abstractFactory.practice;
+package creationalPatterns.abstractFactory.practice;
 
 public interface ITicket {
     void showTicket();

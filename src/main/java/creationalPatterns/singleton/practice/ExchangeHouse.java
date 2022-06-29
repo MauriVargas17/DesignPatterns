@@ -1,4 +1,4 @@
-package singleton.practice;
+package creationalPatterns.singleton.practice;
 
 public class ExchangeHouse extends Exchanger {
 

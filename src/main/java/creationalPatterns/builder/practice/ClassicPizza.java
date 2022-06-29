@@ -1,4 +1,4 @@
-package builder.practice;
+package creationalPatterns.builder.practice;
 
 public class ClassicPizza extends PizzaBaker{
     @Override

@@ -1,4 +1,4 @@
-package singleton.practice;
+package creationalPatterns.singleton.practice;
 
 public class AmbulantExchanger extends Exchanger {
     private boolean hasGun;

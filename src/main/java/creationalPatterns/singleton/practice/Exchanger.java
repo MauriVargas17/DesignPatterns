@@ -1,4 +1,4 @@
-package singleton.practice;
+package creationalPatterns.singleton.practice;
 
 public abstract class Exchanger {
     private String name;

@@ -1,4 +1,4 @@
-package factoryMethod.practice;
+package creationalPatterns.factoryMethod.practice;
 
 public class Client {
     public static void main(String[] args){

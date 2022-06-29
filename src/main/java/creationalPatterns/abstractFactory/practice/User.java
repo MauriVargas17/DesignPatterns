@@ -1,4 +1,4 @@
-package abstractFactory.practice;
+package creationalPatterns.abstractFactory.practice;
 
 public class User {
     private String name;

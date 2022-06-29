@@ -1,4 +1,4 @@
-package interpreter.practice;
+package creationalPatterns.interpreter.practice;
 
 public class One extends Symbol{
 

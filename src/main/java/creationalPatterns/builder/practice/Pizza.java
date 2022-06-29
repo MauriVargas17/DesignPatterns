@@ -1,4 +1,4 @@
-package builder.practice;
+package creationalPatterns.builder.practice;
 
 public class Pizza {
     private String name;

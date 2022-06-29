@@ -1,4 +1,4 @@
-package interpreter.example;
+package creationalPatterns.interpreter.example;
 
 import java.util.ArrayList;
 import java.util.List;

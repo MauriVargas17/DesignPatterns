@@ -1,4 +1,4 @@
-package interpreter.example;
+package creationalPatterns.interpreter.example;
 
 public abstract class OperationM {
     public int digit;

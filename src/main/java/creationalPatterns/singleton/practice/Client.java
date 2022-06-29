@@ -1,4 +1,4 @@
-package singleton.practice;
+package creationalPatterns.singleton.practice;
 
 public class Client {
     public static void main(String[] args){

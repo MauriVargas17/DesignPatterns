@@ -1,4 +1,4 @@
-package interpreter.example;
+package creationalPatterns.interpreter.example;
 
 public class Addition extends OperationM {
 

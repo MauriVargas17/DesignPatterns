@@ -1,0 +1,14 @@
+En el estadio Hernando Siles se tiene un partido importante
+para las clasificatorias, por lo que se ponen a la venta entradas
+
+Algunos atributos de un ticket:
+
+Equipo Local -> Bolivia (Mismo siempre)
+Equipo Visitante -> Brasil (Mismo en un partido)
+Numero de Asiento -> 1,2...98..345 (Distinto para cada cliente)
+Fecha -> 10/10/2022 (Mismo en un partido)
+Precio -> 140 (Distinto para cada entrada)
+Comprador -> Nombre (Distinto siempre)
+
+Debemos crear varias entradas en base a un creationalPatterns.prototype
+

@@ -1,4 +1,4 @@
-package interpreter.structure;
+package creationalPatterns.interpreter.structure;
 
 import java.util.ArrayList;
 import java.util.List;

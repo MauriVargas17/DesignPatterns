@@ -1,4 +1,4 @@
-package abstractFactory.practice;
+package creationalPatterns.abstractFactory.practice;
 
 public enum TicketsList {
     Standard, Solidarity, Children

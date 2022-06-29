@@ -1,4 +1,4 @@
-package interpreter.structure;
+package creationalPatterns.interpreter.structure;
 
 public class TerminalExpressionA extends AbstractExpression{
     /**

@@ -1,4 +1,4 @@
-package factoryMethod.practice;
+package creationalPatterns.factoryMethod.practice;
 
 public class Location {
     private String country;

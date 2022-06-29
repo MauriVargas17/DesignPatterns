@@ -1,4 +1,4 @@
-package abstractFactory.practice;
+package creationalPatterns.abstractFactory.practice;
 
 public class FactoryTicket {
     public static ITicket make(int ticket){

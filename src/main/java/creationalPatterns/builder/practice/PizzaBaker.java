@@ -1,4 +1,4 @@
-package builder.practice;
+package creationalPatterns.builder.practice;
 
 public abstract class PizzaBaker {
     protected Pizza pizza;

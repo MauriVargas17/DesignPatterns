@@ -1,10 +1,10 @@
-package singleton.structure;
+package creationalPatterns.singleton.structure;
 
 public class Client3Wrong {
 
     public static void main(String[] args){
 
-        // Example of wrong use of singleton with Singleton1:
+        // Example of wrong use of creationalPatterns.singleton with Singleton1:
 
         Thread user1 = new Thread(new Runnable() {
             @Override
@@ -36,15 +36,15 @@ public class Client3Wrong {
             }
         });
     /*
-    When having concurring threads, calling a singleton may cause to create many
-    instances of a singleton which is not desirable.
+    When having concurring threads, calling a creationalPatterns.singleton may cause to create many
+    instances of a creationalPatterns.singleton which is not desirable.
     */
         user1.start();
         user2.start();
         user3.start();
 
         /*
-        By executing Client3, we see different instances of a singleton,
+        By executing Client3, we see different instances of a creationalPatterns.singleton,
         it is an error
         */
     }
